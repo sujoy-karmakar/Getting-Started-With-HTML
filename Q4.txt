@@ -1,0 +1,7 @@
+Q.4. Write a short note on Tag and element with an example?
+Ans: Tag -
+ An html tag is a piece of markup language which is used to indicate an opening and closing of an html element.
+Element -
+Html elements consist of an opening tag, content, and closing tag. Html elements can be used to format text, insert images, create links etc.Without element it is not possible to create a structure.
+Combination of using tag, content, and closing tag create a well structure of a webpage.
+

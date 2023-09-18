@@ -1,0 +1,4 @@
+Q.5.What is a DOCTYPE Declaration in HTML?
+
+Ans:DOCTYPE means document type . DOCTYPE Declaration is an instruction to the web browser about what version and type we used.
+ 

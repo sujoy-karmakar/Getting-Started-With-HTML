@@ -1,0 +1,5 @@
+Q.2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTMl
+ document?
+
+Ans: Comment main purpose is to add explanations or notes to the code.It is very helpful for the next man who works on the same project.
+If I comment on our content and tag it not leave our page, it is not showing in the display, just the render.
